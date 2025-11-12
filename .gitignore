@@ -3,3 +3,4 @@ EDAVenv/
 *.exe
 
 SRC/marketing_campaign_backup.csv
+SRC/marketing_campaign_cleaned.csv
