@@ -1,0 +1,5 @@
+# git ignores
+EDAVenv/
+*.exe
+
+SRC/marketing_campaign_backup.csv
